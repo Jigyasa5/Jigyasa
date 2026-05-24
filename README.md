@@ -18,7 +18,7 @@
 
 ## 🔗 Connect with me  
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/jigyasa-820126289" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://www.linkedin.com/in/jigyasa-820126289/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 <a href="mailto:jigyasaverma2805@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 

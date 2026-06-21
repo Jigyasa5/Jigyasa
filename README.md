@@ -1,12 +1,6 @@
 <h1 align="center">Hi , I'm Jigyasa </h1>
 <h3 align="center">AI/ML Student | Problem-Solving Enthusiast</h3>
 
----
-
-### 🌟 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=Jigyasa5&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge)
-
----
 
 ### 👩‍💻 About Me
 

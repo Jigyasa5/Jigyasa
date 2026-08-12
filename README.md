@@ -4,7 +4,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I’m a **3rd-year AI/ML student at IGDTUW**
+- 🎓 I’m a **4th-year AI/ML student at IGDTUW**
 - 🚀 Improving my **problem-solving skills** & exploring **Machine Learning**
 - 📍  Interested in contributing to **Open Source** & **GSoC**
 
